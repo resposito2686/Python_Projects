@@ -1,0 +1,181 @@
+2022-05-04 13:43:04,301 - __main__:MainThread:<module> - CRITICAL - ========== NEW APPLICATION INSTANCE STARTED ==========
+
+
+2022-05-04 13:43:04,302 - __main__:MainThread:<module> - DEBUG - Creating root.
+2022-05-04 13:43:04,382 - __main__:MainThread:__init__ - INFO - Creating main window.
+2022-05-04 13:43:04,414 - __main__:MainThread:__init__ - INFO - Reading settings.ini
+2022-05-04 13:43:04,415 - __main__:MainThread:change_error_log_level - DEBUG - Changing error logging level to DEBUG.
+2022-05-04 13:43:04,415 - __main__:MainThread:change_error_log_level - INFO - Writing 'level=DEBUG' to settings.ini
+2022-05-04 13:43:04,416 - __main__:MainThread:change_log_file_path - INFO - Changing log file path to: e:\Documents\Work\device_monitor\Log_Files
+2022-05-04 13:43:04,416 - __main__:MainThread:change_log_file_path - INFO - Writing 'path=e:\Documents\Work\device_monitor\Log_Files' to settings.ini
+2022-05-04 13:43:04,416 - __main__:MainThread:__init__ - ERROR - No section: 'com_port'
+2022-05-04 13:43:04,416 - __main__:MainThread:__init__ - DEBUG - Available COM ports: ['COM1']
+2022-05-04 13:43:04,425 - __main__:MainThread:change_font - DEBUG - Attempting to change font settings.
+2022-05-04 13:43:04,425 - __main__:MainThread:change_font - INFO - Writing 'style' and 'size' to settings.ini
+2022-05-04 13:43:04,425 - __main__:MainThread:change_newline_break - DEBUG - Line break set to '<LF>'.
+2022-05-04 13:43:04,425 - __main__:MainThread:change_newline_break - INFO - Writing 'line_break' to settings.ini
+2022-05-04 13:43:04,425 - __main__:MainThread:<module> - DEBUG - Creating exception handlers.
+2022-05-04 13:43:04,425 - __main__:MainThread:<module> - INFO - Starting main loop
+2022-05-04 13:43:06,013 - __main__:MainThread:__init__ - INFO - Creating puibtool window.
+2022-05-04 13:44:34,150 - __main__:MainThread:exit_puib - WARNING - Could not re-open connection on None.
+
+2022-05-04 13:44:39,166 - __main__:MainThread:exit_puib - DEBUG - Waiting for 'puibtool' thread to join
+2022-05-04 13:44:39,166 - __main__:MainThread:destroy_window - INFO - Closing 'Run PUIbtool' window.
+2022-05-04 13:44:40,955 - __main__:MainThread:exit_main - DEBUG - Waiting for 'console' thread to join.
+2022-05-04 13:44:40,955 - __main__:MainThread:exit_main - DEBUG - Waiting for 'status' thread to join.
+2022-05-04 13:44:40,955 - __main__:MainThread:exit_main - INFO - Closing application.
+2022-05-04 13:55:01,889 - __main__:MainThread:<module> - CRITICAL - ========== NEW APPLICATION INSTANCE STARTED ==========
+
+
+2022-05-04 13:55:01,889 - __main__:MainThread:<module> - DEBUG - Creating root.
+2022-05-04 13:55:01,969 - __main__:MainThread:__init__ - INFO - Creating main window.
+2022-05-04 13:55:01,998 - __main__:MainThread:__init__ - INFO - Reading settings.ini
+2022-05-04 13:55:01,999 - __main__:MainThread:change_error_log_level - DEBUG - Changing error logging level to DEBUG.
+2022-05-04 13:55:01,999 - __main__:MainThread:change_error_log_level - INFO - Writing 'level=DEBUG' to settings.ini
+2022-05-04 13:55:02,000 - __main__:MainThread:change_log_file_path - INFO - Changing log file path to: e:\Documents\Work\device_monitor\Log_Files
+2022-05-04 13:55:02,000 - __main__:MainThread:change_log_file_path - INFO - Writing 'path=e:\Documents\Work\device_monitor\Log_Files' to settings.ini
+2022-05-04 13:55:02,000 - __main__:MainThread:__init__ - ERROR - No section: 'com_port'
+2022-05-04 13:55:02,000 - __main__:MainThread:__init__ - DEBUG - Available COM ports: ['COM1']
+2022-05-04 13:55:02,009 - __main__:MainThread:change_font - DEBUG - Attempting to change font settings.
+2022-05-04 13:55:02,009 - __main__:MainThread:change_font - INFO - Writing 'style' and 'size' to settings.ini
+2022-05-04 13:55:02,009 - __main__:MainThread:change_newline_break - DEBUG - Line break set to '<LF>'.
+2022-05-04 13:55:02,009 - __main__:MainThread:change_newline_break - INFO - Writing 'line_break' to settings.ini
+2022-05-04 13:55:02,009 - __main__:MainThread:<module> - DEBUG - Creating exception handlers.
+2022-05-04 13:55:02,009 - __main__:MainThread:<module> - INFO - Starting main loop
+2022-05-04 13:55:10,041 - __main__:MainThread:__init__ - INFO - Creating preferences window.
+2022-05-04 13:55:15,451 - __main__:MainThread:destroy_window - INFO - Closing 'Preferences' window.
+2022-05-04 13:55:17,533 - __main__:MainThread:__init__ - INFO - Creating settings window.
+2022-05-04 13:55:17,544 - __main__:MainThread:__init__ - DEBUG - None inserted at settings[0]
+2022-05-04 13:55:18,410 - __main__:MainThread:exit_settings - INFO - Clearing settings list.
+2022-05-04 13:55:18,410 - __main__:MainThread:exit_settings - DEBUG - Settings list after clear:
+2022-05-04 13:55:18,410 - __main__:MainThread:exit_settings - DEBUG - settings[01]:
+2022-05-04 13:55:18,410 - __main__:MainThread:exit_settings - DEBUG - settings[02]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[03]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[04]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[05]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[06]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[07]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[08]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[09]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[10]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[11]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[12]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[13]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[14]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[15]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[16]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[17]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[18]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[19]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[20]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[21]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[22]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[23]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[24]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[25]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[26]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[27]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[28]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[29]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[30]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[31]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[32]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[33]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[34]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[35]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[36]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[37]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[38]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[39]:
+2022-05-04 13:55:18,411 - __main__:MainThread:exit_settings - DEBUG - settings[40]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[41]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[42]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[43]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[44]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[45]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[46]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[47]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[48]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[49]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[50]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[51]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[52]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[53]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[54]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[55]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[56]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[57]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[58]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[59]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[60]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[61]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[62]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[63]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[64]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[65]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[66]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[67]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[68]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[69]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[70]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[71]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[72]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[73]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[74]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[75]:
+2022-05-04 13:55:18,412 - __main__:MainThread:exit_settings - DEBUG - settings[76]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[77]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[78]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[79]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[80]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[81]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[82]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[83]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[84]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[85]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[86]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[87]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[88]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[89]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[90]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[91]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[92]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[93]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[94]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[95]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[96]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[97]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[98]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[99]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[100]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[101]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[102]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[103]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[104]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[105]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[106]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[107]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[108]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[109]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[110]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[111]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[112]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[113]:
+2022-05-04 13:55:18,413 - __main__:MainThread:exit_settings - DEBUG - settings[114]:
+2022-05-04 13:55:18,414 - __main__:MainThread:exit_settings - DEBUG - settings[115]:
+2022-05-04 13:55:18,414 - __main__:MainThread:exit_settings - DEBUG - settings[116]:
+2022-05-04 13:55:18,414 - __main__:MainThread:exit_settings - DEBUG - settings[117]:
+2022-05-04 13:55:18,414 - __main__:MainThread:exit_settings - DEBUG - settings[118]:
+2022-05-04 13:55:18,414 - __main__:MainThread:exit_settings - DEBUG - settings[119]:
+2022-05-04 13:55:18,414 - __main__:MainThread:exit_settings - DEBUG - settings[120]:
+2022-05-04 13:55:18,414 - __main__:MainThread:exit_settings - DEBUG - settings[121]:
+2022-05-04 13:55:18,414 - __main__:MainThread:exit_settings - DEBUG - settings[122]:
+2022-05-04 13:55:18,414 - __main__:MainThread:destroy_window - INFO - Closing 'Device Settings' window.
+2022-05-04 13:55:21,306 - __main__:MainThread:__init__ - INFO - Creating puibtool window.
+2022-05-04 13:55:23,051 - __main__:MainThread:exit_puib - WARNING - Could not re-open connection on None.
+
+2022-05-04 13:55:28,064 - __main__:MainThread:exit_puib - DEBUG - Waiting for 'puibtool' thread to join
+2022-05-04 13:55:28,064 - __main__:MainThread:destroy_window - INFO - Closing 'Run PUIbtool' window.
+2022-05-04 13:55:29,105 - __main__:MainThread:exit_main - DEBUG - Waiting for 'console' thread to join.
+2022-05-04 13:55:29,105 - __main__:MainThread:exit_main - DEBUG - Waiting for 'status' thread to join.
+2022-05-04 13:55:29,105 - __main__:MainThread:exit_main - INFO - Closing application.
