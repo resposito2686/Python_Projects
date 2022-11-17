@@ -16,5 +16,5 @@ This project will generate J1979 emulation files for the DGTech SAINT2 Systems A
 * An easy to use GUI that helps the user quickly generate the files they need.
 * Comes with tools to build the application into an executable that can run on any Windows system.
 
-*Note: both of these projects were completed during my employement at Positioning Universal Inc. I do not claim any copyright or patten on these projects
+*Note: both of these projects were completed during my employement at Positioning Universal Inc. I do not claim any copyright or patent on these projects
 and present them here as an example of my work*
